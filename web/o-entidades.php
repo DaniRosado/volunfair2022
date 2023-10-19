@@ -26,7 +26,7 @@ escribe_cabecera();
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			
+			<!---->
             <!-- BEGIN: PAGE CONTENT -->
           
              <!-- BEGIN: CONTENT/TABS/TAB-1 -->
